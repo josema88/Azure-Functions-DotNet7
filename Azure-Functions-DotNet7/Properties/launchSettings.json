@@ -1,0 +1,9 @@
+﻿{
+  "profiles": {
+    "Azure_Functions_DotNet7": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7070",
+      "launchBrowser": false
+    }
+  }
+}
