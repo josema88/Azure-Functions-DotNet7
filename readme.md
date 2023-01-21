@@ -59,7 +59,7 @@ Once you have your Queue instance, you should create a Queue called `queue-depar
 
 ### Connect to your DB and Storage Services in your local environment
 
-Be sure that in your local environment you have the fille local.settings.json. Within that file you should add the connection string, like this sample:
+Be sure that in your local environment you have the fille local.settings.json. Within that file you should add the connection strings for DB and Storage Account, like this sample:
 
 ```json
 {
