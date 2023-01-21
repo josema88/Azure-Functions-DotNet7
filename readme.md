@@ -7,7 +7,7 @@ This project contains a CRUD using HTTP Trigger Functions and a Queue Trigger Fu
 ## Requirements
 
 - [Install Azure CLI version 2.4 or later](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
-- [Install .Net Core 7](https://dotnet.microsoft.com/es-es/download)
+- [Install .Net 7](https://dotnet.microsoft.com/es-es/download)
 - [Install Azure Functions Core Tools version 4.x](https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local#v2)
 
 Option 1: Visual Studio
